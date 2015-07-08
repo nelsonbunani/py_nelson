@@ -10,7 +10,7 @@ else:
    print("you are old")
 name=raw_input("my name:")
 if name=="Nelson":
-   print("hi "+name)
+   print("hi my "+name)
  # elif name== "Sharon"
  #    print("hi Sharon")
  # else:
